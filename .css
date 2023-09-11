@@ -1,0 +1,11 @@
+
+
+#environment.background {
+
+position: absolute;
+width: 5em;
+weight: 5em;
+background-image: url(“playful.png”);
+top: 0;
+left: 0;
+}
